@@ -76,7 +76,7 @@ Screenshots and demo videos of the website can be found in [`/public/Website`](.
 ### 🎥 Demo Video
 
 <!-- Markdown does not embed videos; it only links to them. Make sure demo.mp4 exists at /public/Website/demo.mp4 -->
-[Watch the demo video](https://github.com/Harsh13kumar/Apple-Website/blob/main/public/Website/website.webm)
+[Watch the demo video](https://github.com/Harsh13kumar/Apple-Website/blob/main/public/Website/website.mp4)
 
 <!-- Optionally, you can use an image thumbnail as a link to the video -->
 <!-- Make sure demo-thumbnail.png exists at /public/Website/demo-thumbnail.png -->
