@@ -74,6 +74,7 @@ Screenshots and demo videos of the website can be found in [`/public/Website`](.
 ![Homepage Screenshot](https://github.com/Harsh13kumar/Apple-Website/blob/main/public/Website/HeroSection.png)
 ![Homepage Screenshot](https://github.com/Harsh13kumar/Apple-Website/blob/main/public/Website/3Dmodel.png)
 ![Highlight Screenshort](https://github.com/Harsh13kumar/Apple-Website/blob/main/public/Website/Highlights.png)
+![Highlight Screenshort](https://github.com/Harsh13kumar/Apple-Website/blob/main/public/Website/website.mp4)
 ## 🤝 Contributing
 
 Contributions are welcome! Please follow these steps to contribute professionally:
